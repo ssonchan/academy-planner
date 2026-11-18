@@ -1,0 +1,14 @@
+{
+  "name": "우리집 학원 매니저",
+  "short_name": "학원매니저",
+  "description": "두 자녀의 학원 일정, 픽업, 학원비와 카드 배분을 한 곳에서",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f9",
+  "theme_color": "#2b4a8b",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
